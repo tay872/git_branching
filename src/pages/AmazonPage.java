@@ -8,5 +8,8 @@ public class AmazonPage {
 
     // Html for deal page
 
+    //Html for cart page
+
 
 }
+
