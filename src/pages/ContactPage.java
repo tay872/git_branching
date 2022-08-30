@@ -1,5 +1,5 @@
 package pages;
-public class ContackPage{
+public class ContactPage {
   // html for email
   
 }
