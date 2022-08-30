@@ -6,5 +6,7 @@ public class AmazonPage {
 
     // html for sear button
 
+    // Html for deal page
+
 
 }
